@@ -1,3 +1,8 @@
+
+body{
+    background-color: #F1C40F;
+}
+
 img{
     max-width: 100%;
 }
@@ -12,8 +17,14 @@ h3{
 .redes{
     width: 30px;
     height: 30px;
+     background-color: aliceblue;
+    border-radius: 50%;
 }
 .card-img-top {
     width: 150px;
     height: 150px;
+   
 }
+
+
+
